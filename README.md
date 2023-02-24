@@ -13,7 +13,7 @@ In order to deploy metrics-server in your kubernetes master machine clone https:
  
 ```console
 # clone manifest repo
-git clone https://github.com/LandmakTechnology/metric-server
+git clone https://github.com/myinsighttech/metric-server
 # deploy metricAPI
 kubectl apply -f metric-server/metrics-server-deploy.yml
 ```
